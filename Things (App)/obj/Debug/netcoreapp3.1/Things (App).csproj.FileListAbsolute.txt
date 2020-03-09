@@ -1,0 +1,11 @@
+C:\Users\hillr6\OneDrive - Rensselaer Polytechnic Institute\Documents\Things (App)\bin\Debug\netcoreapp3.1\Things (App).exe
+C:\Users\hillr6\OneDrive - Rensselaer Polytechnic Institute\Documents\Things (App)\bin\Debug\netcoreapp3.1\Things (App).deps.json
+C:\Users\hillr6\OneDrive - Rensselaer Polytechnic Institute\Documents\Things (App)\bin\Debug\netcoreapp3.1\Things (App).runtimeconfig.json
+C:\Users\hillr6\OneDrive - Rensselaer Polytechnic Institute\Documents\Things (App)\bin\Debug\netcoreapp3.1\Things (App).runtimeconfig.dev.json
+C:\Users\hillr6\OneDrive - Rensselaer Polytechnic Institute\Documents\Things (App)\bin\Debug\netcoreapp3.1\Things (App).dll
+C:\Users\hillr6\OneDrive - Rensselaer Polytechnic Institute\Documents\Things (App)\bin\Debug\netcoreapp3.1\Things (App).pdb
+C:\Users\hillr6\OneDrive - Rensselaer Polytechnic Institute\Documents\Things (App)\obj\Debug\netcoreapp3.1\Things (App).csprojAssemblyReference.cache
+C:\Users\hillr6\OneDrive - Rensselaer Polytechnic Institute\Documents\Things (App)\obj\Debug\netcoreapp3.1\Things (App).AssemblyInfoInputs.cache
+C:\Users\hillr6\OneDrive - Rensselaer Polytechnic Institute\Documents\Things (App)\obj\Debug\netcoreapp3.1\Things (App).AssemblyInfo.cs
+C:\Users\hillr6\OneDrive - Rensselaer Polytechnic Institute\Documents\Things (App)\obj\Debug\netcoreapp3.1\Things (App).dll
+C:\Users\hillr6\OneDrive - Rensselaer Polytechnic Institute\Documents\Things (App)\obj\Debug\netcoreapp3.1\Things (App).pdb
